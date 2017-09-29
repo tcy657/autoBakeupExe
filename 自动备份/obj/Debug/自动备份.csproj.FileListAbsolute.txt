@@ -1,0 +1,26 @@
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\bin\Debug\自动备份助手.exe.manifest
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\bin\Debug\自动备份助手.application
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\bin\Debug\自动备份助手.exe
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\bin\Debug\自动备份助手.pdb
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份.Form1.resources
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份.Properties.Resources.resources
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份.SetTimerVar.resources
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份.csproj.GenerateResource.Cache
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份助手.exe.manifest
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份助手.application
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份助手.exe
+C:\Users\fh\Documents\Visual Studio 2008\Projects\自动备份\自动备份\obj\Debug\自动备份助手.pdb
+D:\code_ipran\autoBakeupExe\自动备份\bin\Debug\自动备份助手.exe.manifest
+D:\code_ipran\autoBakeupExe\自动备份\bin\Debug\自动备份助手.application
+D:\code_ipran\autoBakeupExe\自动备份\bin\Debug\自动备份助手.exe
+D:\code_ipran\autoBakeupExe\自动备份\bin\Debug\自动备份助手.pdb
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\ResolveAssemblyReference.cache
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份.Form1.resources
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份.Properties.Resources.resources
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份.SetTimerVar.resources
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份.csproj.GenerateResource.Cache
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份助手.exe.manifest
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份助手.application
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份助手.exe
+D:\code_ipran\autoBakeupExe\自动备份\obj\Debug\自动备份助手.pdb

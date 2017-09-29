@@ -1,0 +1,1 @@
+echo y|pscp.exe -v -p -l root -pw "root"  root@10.190.5.252:/home/scu/ZEBOS.CFG  ./
